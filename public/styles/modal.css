@@ -1,0 +1,64 @@
+.modal_wrapper.active{
+    visibility: visible;
+    opacity: 1;
+}
+.modal_wrapper{
+    width: 100vw;
+    height: 100vh;
+
+    position: fixed;
+
+    display:flex;
+
+    top:0;
+    left: 0;
+
+    background-color:rgba(4, 9, 17, .8);
+
+    /* Escondendo a modal */
+    visibility: hidden;
+    opacity: 0;
+}
+.modal_wrapper .modal{
+    width:min(59rem, 90%);
+    margin: auto;
+    background: var(--white);
+    border-radius: .8rem;
+    
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+
+    padding:6.4rem;
+
+}
+.modal_wrapper .modal h2{
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin-bottom: 1.2rem;
+
+    color: var(--black);
+}
+.modal_wrapper .modal p{
+    margin-bottom: 2.4rem;
+}
+.modal_wrapper .modal input{
+    margin-bottom: 4rem;
+    padding: 1.3rem 1.6rem;
+    border: .2rem solid var(--blue);
+    outline: none;
+
+    color: var(--gray-dark);
+
+    width: min(30.2rem, 70%);
+}
+.modal_wrapper .modal .buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .8rem;
+    
+}
+.modal_wrapper .modal .buttons button,
+.modal_wrapper .modal .buttons .button{
+    padding: 1.3rem 3.2rem;
+}
