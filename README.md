@@ -8,13 +8,6 @@ Este foi um projeto feito na NLW together da Rocketseat, esta aplicação é com
 ## :pushpin: O que aprendi neste projeto
 Aprendi a criar rotas, lidar com medodos get e post, aprendi lidar com formuláos,  aprendi a anexar dados ao banco de daodos, aprendi criar tabelas, entre muitas outras coisas.
 
-## 🛠️ Tecnologias/Ferramentas utilizadas
-* [JavaScript]()
-* [HTML]()
-* [Css]()
-* [Ejs]()
-* [Express]()
-* [SQLite]()
 
 ## ⚙️ Instalação
 ```
@@ -29,6 +22,15 @@ $ yarn
 # Inicie a aplicação
 $ yarn start
 ```
+
+## 🛠️ Tecnologias/Ferramentas utilizadas
+* [JavaScript]()
+* [HTML]()
+* [Css]()
+* [Ejs]()
+* [Express]()
+* [SQLite]()
+
 
 <hr>
 <p align="center">Feito com 💙 por <strong>Maikon Alexandre</strong></p>
