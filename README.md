@@ -6,7 +6,7 @@
 Este foi um projeto feito na NLW together da Rocketseat, esta aplicação é como um forum de perguntas onde é possivél criar uma sala, fazer uma pergunta, deletar perguntas ou marcar como lidas.
 
 ## :pushpin: O que aprendi neste projeto
-Aprendi a criar rotas, lidar com medodos get e post, aprendi lidar com formuláos,  aprendi a anexar dados ao banco de daodos, aprendi criar tabelas, entre muitas outras coisas.
+Aprendi a criar rotas, lidar com medodos get e post, aprendi lidar com formuláos,  aprendi a anexar dados ao banco de daodos, aprendi criar tabelas, entre muitas outras coisas
 
 
 ## ⚙️ Instalação
